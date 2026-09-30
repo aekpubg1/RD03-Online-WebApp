@@ -1,0 +1,14 @@
+{
+  "name": "ระบบรายงานสายสื่อสาร RD03",
+  "short_name": "RD03",
+  "description": "เว็บแอปรายงานสายสื่อสาร RD03 พร้อมแผนที่และฐาน TAG เสา",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f6f8",
+  "theme_color": "#1d4ed8",
+  "lang": "th",
+  "icons": [
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
